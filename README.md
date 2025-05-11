@@ -10,24 +10,24 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/Hunterdii/Smart-AI-Resume-Analyzer">
+      <a href="https://github.com/Shayanschakravarthy/Smart-AI-Resume-Analyzer">
         <img src="https://img.shields.io/badge/Smart%20AI%20Resume%20Analyzer-Enhance%20Your%20Job%20Search-007acc?style=for-the-badge&logo=python&logoColor=white" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Hunterdii/Awesome-Java">
+      <a href="https://github.com/Shayanschakravarthy/Awesome-Java">
         <img src="https://img.shields.io/badge/Awesome%20Java-Master%20Java%20Concepts-007396?style=for-the-badge&logo=java&logoColor=white" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Hunterdii/tryhackme-free-rooms">
+      <a href="https://github.com/Shayanschakravarthy/tryhackme-free-rooms">
         <img src="https://img.shields.io/badge/TryHackMe%20Free%20Rooms-Boost%20Your%20Hacking%20Skills-990000?style=for-the-badge&logo=hackthebox&logoColor=white" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Hunterdii/30-Days-Of-Rust">
+      <a href="https://github.com/Shayanschakravarthy/30-Days-Of-Rust">
         <img src="https://img.shields.io/badge/Support%20Rust%20Learning-Contribute%20to%20Rust-7a0c2f?style=for-the-badge&logo=rust&logoColor=white" />
       </a>
     </td>
@@ -377,25 +377,25 @@
 <div align="center">
   <h3>🚀 Welcome to Our Coding Community! 🚀</h3>
   <p>🌱 Dive into GeeksforGeeks Problem of the Day Solutions and level up your coding skills!</p>
-  <img src="https://profile-counter.glitch.me/Hunterdii/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/Shayanschakravarthy/count.svg" alt="Visitor Count" />
 </div>
 
 <!--Line-->
-<a href="https://github.com/Hunterdii/GeeksforGeeks-POTD" style="text-decoration: none;">
+<a href="https://github.com/Shayanschakravarthy/GeeksforGeeks-POTD" style="text-decoration: none;">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="100%">
 </a>
 
 <p align="center">
-  <a href="https://github.com/Hunterdii/GeeksforGeeks-POTD" style="text-decoration: none;">
-  <img src="https://socialify.git.ci/Hunterdii/GeeksforGeeks-POTD/image?description=1&descriptionEditable=Get%20daily%20solutions%20for%20GeeksforGeeks%20Problem%20of%20the%20Day%202024%20and%20become%20a%20coding%20pro!&font=Rokkitt&owner=1&pattern=Brick%20Wall&theme=Dark" alt="GeeksforGeeks POTD Banner" width="850"/>
+  <a href="https://github.com/Shayanschakravarthy/GeeksforGeeks-POTD" style="text-decoration: none;">
+  <img src="https://socialify.git.ci/Shayanschakravarthy/GeeksforGeeks-POTD/image?description=1&descriptionEditable=Get%20daily%20solutions%20for%20GeeksforGeeks%20Problem%20of%20the%20Day%202024%20and%20become%20a%20coding%20pro!&font=Rokkitt&owner=1&pattern=Brick%20Wall&theme=Dark" alt="GeeksforGeeks POTD Banner" width="850"/>
 </p>
 
 
 
 <div align="center">
   <h2>👥 Join the Conversation</h2>
-  <p>If you have any questions, insights, or solutions to share, don't miss out on our active <a href="https://github.com/Hunterdii/GeeksforGeeks-POTD/discussions">Discussion Hub</a>! 🌟 Your participation is what makes this community great.</p>
-  <a href="https://github.com/Hunterdii/GeeksforGeeks-POTD/discussions/15" style="text-decoration: none;">
+  <p>If you have any questions, insights, or solutions to share, don't miss out on our active <a href="https://github.com/Shayanschakravarthy/GeeksforGeeks-POTD/discussions">Discussion Hub</a>! 🌟 Your participation is what makes this community great.</p>
+  <a href="https://github.com/Shayanschakravarthy/GeeksforGeeks-POTD/discussions/15" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Join%20Discussion%20Hub%20-%20Vote%20%26%20Suggest-blue?style=for-the-badge&logo=github&logoColor=white" alt="Discussion Badge">
   </a>
 </div>
@@ -425,7 +425,7 @@ _Support Smart AI Resume Analyzer & Shape the Future of Technology! 🤖_
 
 <div align="center">
   
-[![Smart AI Resume Analyzer](https://img.shields.io/badge/Smart%20AI%20Resume%20Analyzer-Contribute%20Now-007bff?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Hunterdii/Smart-AI-Resume-Analyzer)
+[![Smart AI Resume Analyzer](https://img.shields.io/badge/Smart%20AI%20Resume%20Analyzer-Contribute%20Now-007bff?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Shayanschakravarthy/Smart-AI-Resume-Analyzer)
 
 </div>
 
@@ -453,7 +453,7 @@ _Support Rust Learning & Contribute to the Future of Programming!_
 
 <div align="center">
   
-[![Rust Learning](https://img.shields.io/badge/Rust%20Learning%20Support-Empower%20Future%20Programmers-orange?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Hunterdii/30-Days-Of-Rust)
+[![Rust Learning](https://img.shields.io/badge/Rust%20Learning%20Support-Empower%20Future%20Programmers-orange?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Shayanschakravarthy/30-Days-Of-Rust)
 
 </div>
 
@@ -481,7 +481,7 @@ Let’s build an **Awesome Java** resource together! 🚀
 
 <div align="center">
   
-[![Awesome Java](https://img.shields.io/badge/Awesome%20Java-Contribute%20Now-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Hunterdii/Awesome-Java)
+[![Awesome Java](https://img.shields.io/badge/Awesome%20Java-Contribute%20Now-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Shayanschakravarthy/Awesome-Java)
 
 </div>
 
@@ -510,7 +510,7 @@ Join now & start hacking! 🚀
 
 <div align="center">
   
-[![TryHackMe Free Rooms](https://img.shields.io/badge/TryHackMe%20Free%20Rooms-Contribute%20Now-990000?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/Hunterdii/tryhackme-free-rooms)
+[![TryHackMe Free Rooms](https://img.shields.io/badge/TryHackMe%20Free%20Rooms-Contribute%20Now-990000?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/Shayanschakravarthy/tryhackme-free-rooms)
 
 </div>
 
@@ -536,10 +536,10 @@ Join now & start hacking! 🚀
 
 ## 🚀 **Languages Used**
 
-- [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/search?q=repo%3AHunterdii%2FGeeksforGeeks-POTD++language%3Acpp+path%3ANovember+2024+GFG+SOLUTION&type=code)
-- [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://github.com/search?q=repo%3AHunterdii%2FGeeksforGeeks-POTD++language%3AJava+path%3ANovember+2024+GFG+SOLUTION&type=code)
-- [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/search?q=repo%3AHunterdii%2FGeeksforGeeks-POTD++language%3APython+path%3ANovember+2024+GFG+SOLUTION&type=code)
-- [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/search?q=repo%3AHunterdii%2FGeeksforGeeks-POTD++language%3Ac+path%3ANovember+2024+GFG+SOLUTION&type=code)
+- [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/search?q=repo%3AShayanschakravarthy%2FGeeksforGeeks-POTD++language%3Acpp+path%3ANovember+2024+GFG+SOLUTION&type=code)
+- [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://github.com/search?q=repo%3AShayanschakravarthy%2FGeeksforGeeks-POTD++language%3AJava+path%3ANovember+2024+GFG+SOLUTION&type=code)
+- [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/search?q=repo%3AShayanschakravarthy%2FGeeksforGeeks-POTD++language%3APython+path%3ANovember+2024+GFG+SOLUTION&type=code)
+- [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/search?q=repo%3AShayanschakravarthy%2FGeeksforGeeks-POTD++language%3Ac+path%3ANovember+2024+GFG+SOLUTION&type=code)
 
 
 
@@ -555,7 +555,7 @@ We ❤️ contributions! Here's how you can contribute:
 > **Note:** Follow our coding style and include meaningful comments.
 
 <h2>
-  <a href="https://github.com/Hunterdii/GeeksforGeeks-POTD">
+  <a href="https://github.com/Shayanschakravarthy/GeeksforGeeks-POTD">
   <img src="https://github.com/user-attachments/assets/5b3cb883-6652-4525-a352-b4b9a3501e07" width = 35px height = 35px></a> <b></b> Your Star Counts! </b></h2>
 
 <div align="center">
@@ -569,37 +569,37 @@ We ❤️ contributions! Here's how you can contribute:
 </div>
 
 <div align="center">
-  <a href="https://github.com/Hunterdii/GeeksforGeeks-POTD">
-    <img src="https://img.shields.io/github/stars/Hunterdii/GeeksforGeeks-POTD?style=for-the-badge&color=brightgreen" alt="GitHub Stars">
+  <a href="https://github.com/Shayanschakravarthy/GeeksforGeeks-POTD">
+    <img src="https://img.shields.io/github/stars/Shayanschakravarthy/GeeksforGeeks-POTD?style=for-the-badge&color=brightgreen" alt="GitHub Stars">
   </a>
 </div>
 
 <div align="center">
-  <a href="https://star-history.com/#Hunterdii/GeeksforGeeks-POTD&Date">
+  <a href="https://star-history.com/#Shayanschakravarthy/GeeksforGeeks-POTD&Date">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Hunterdii/GeeksforGeeks-POTD&type=Date&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Hunterdii/GeeksforGeeks-POTD&type=Date" />
-      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Hunterdii/GeeksforGeeks-POTD&type=Date" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Shayanschakravarthy/GeeksforGeeks-POTD&type=Date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Shayanschakravarthy/GeeksforGeeks-POTD&type=Date" />
+      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Shayanschakravarthy/GeeksforGeeks-POTD&type=Date" />
     </picture>
   </a>
 </div>
 
 <!--Line-->
-<a href="https://github.com/Hunterdii/GeeksforGeeks-POTD" style="text-decoration: none;">
+<a href="https://github.com/Shayanschakravarthy/GeeksforGeeks-POTD" style="text-decoration: none;">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
 </a>
 
 <!-- Added Team section -->
 ## 👤 Creator
-| ![Het Patel](https://avatars.githubusercontent.com/u/124852522?v=4&s=80) |
+| ![Shayan S Chakravarthy](https://avatars.githubusercontent.com/u/124852522?v=4&s=80) |
 |:--:|
-| [**Het Patel**](https://github.com/sponsors/Hunterdii) <br> <sub>Project Maintainer</sub> |
-| [![LinkedIn](https://img.icons8.com/fluency/32/000000/linkedin.png)](https://www.linkedin.com/in/patel-hetkumar-sandipbhai-8b110525a/) [![Gmail](https://img.icons8.com/fluency/32/000000/gmail.png)](mailto:hunterdii9879@gmail.com) |
+| [**Shayan S Chakravarthy**](https://github.com/sponsors/Shayanschakravarthy) <br> <sub>Project Maintainer</sub> |
+| [![LinkedIn](https://img.icons8.com/fluency/32/000000/linkedin.png)](https://www.linkedin.com/in/Shayan-S-Chakravarthy-456076214/) [![Gmail](https://img.icons8.com/fluency/32/000000/gmail.png)](mailto:Shayanschakravarthi96@gmail.com) |
 
 For any inquiries or feedback, please contact. Happy Contributing❤
 
 <!--Line-->
-<a href="https://github.com/Hunterdii/GeeksforGeeks-POTD" style="text-decoration: none;">
+<a href="https://github.com/Shayanschakravarthy/GeeksforGeeks-POTD" style="text-decoration: none;">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
 </a>
 
@@ -609,13 +609,13 @@ For any inquiries or feedback, please contact. Happy Contributing❤
   <div align = "center">
  <h3>Thank you for contributing to our repository</h3></div>
 
-   ![Contributors](https://contrib.rocks/image?repo=Hunterdii/GeeksforGeeks-POTD&columns=24&max=480)
+   ![Contributors](https://contrib.rocks/image?repo=Shayanschakravarthy/GeeksforGeeks-POTD&columns=24&max=480)
 </div>
 
 > Shaping solutions every day—thanks to everyone contributing to **GeeksforGeeks-POTD! 🚀**
 
 <!--Line-->
-<a href="https://github.com/Hunterdii/GeeksforGeeks-POTD" style="text-decoration: none;">
+<a href="https://github.com/Shayanschakravarthy/GeeksforGeeks-POTD" style="text-decoration: none;">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
 </a>
 
@@ -639,7 +639,7 @@ For any inquiries or feedback, please contact. Happy Contributing❤
 
 
 <h2>
-  <a href="https://github.com/Hunterdii/GeeksforGeeks-POTD">
+  <a href="https://github.com/Shayanschakravarthy/GeeksforGeeks-POTD">
    <img src="https://github.com/user-attachments/assets/5b3cb883-6652-4525-a352-b4b9a3501e07" width = 35px height = 35px></a>  Achievements & Highlights </h2>
 
 - **🌐 Global Reach**: Engaging with coders worldwide, from beginners to experts.
